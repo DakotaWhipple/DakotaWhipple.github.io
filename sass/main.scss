@@ -2,7 +2,7 @@ $bg-dark: #181818;
 $text-light: #C0C0C0;
 
 html, body {
-  min-height: 100%;
+  min-height: 100vh;
 }
 
 body {
@@ -10,8 +10,7 @@ body {
   color: $text-light;
 }
 header {
-  padding: 25%;
-  
+  padding: 25% 0 0 25%;
 }
 footer {
 
