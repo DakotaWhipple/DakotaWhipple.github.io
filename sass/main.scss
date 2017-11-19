@@ -1,3 +1,19 @@
-h1 {
-  color: red;
+$bg-dark: #181818;
+$text-light: #C0C0C0;
+
+html, body {
+  min-height: 100%;
 }
+
+body {
+  background-color: $bg-dark;
+  color: $text-light;
+}
+header {
+  padding: 25%;
+  
+}
+footer {
+
+}
+
